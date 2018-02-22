@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Projetos\SidimApi\SidimApi\bin\SidimApi.dll.config
+C:\Users\User\Desktop\Projetos\SidimApi\SidimApi\bin\SidimApi.dll
+C:\Users\User\Desktop\Projetos\SidimApi\SidimApi\bin\SidimApi.pdb
+C:\Users\User\Desktop\Projetos\SidimApi\SidimApi\bin\MySql.Data.dll
+C:\Users\User\Desktop\Projetos\SidimApi\SidimApi\obj\Debug\SidimApi.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Projetos\SidimApi\SidimApi\obj\Debug\SidimApi.dll
+C:\Users\User\Desktop\Projetos\SidimApi\SidimApi\obj\Debug\SidimApi.pdb

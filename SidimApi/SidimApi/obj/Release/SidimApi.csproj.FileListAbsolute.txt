@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Projetos\SidimApi\SidimApi\bin\SidimApi.dll.config
+C:\Users\User\Desktop\Projetos\SidimApi\SidimApi\bin\SidimApi.dll
+C:\Users\User\Desktop\Projetos\SidimApi\SidimApi\bin\SidimApi.pdb
+C:\Users\User\Desktop\Projetos\SidimApi\SidimApi\bin\MySql.Data.dll
+C:\Users\User\Desktop\Projetos\SidimApi\SidimApi\obj\Release\SidimApi.dll
+C:\Users\User\Desktop\Projetos\SidimApi\SidimApi\obj\Release\SidimApi.pdb
